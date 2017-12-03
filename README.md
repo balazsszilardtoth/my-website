@@ -8,8 +8,8 @@ updated locally
 
 updated on github
 
+<<<<<<< HEAD
 ## Repository Purpose
 
-This will be a change that conflicts
-with the whatever is on the remote side.
-This was edited locally.
+This file is just a readme
+>>>>>>> bea283953c83ce70c26ab2c9e1e5ee21d671925d
